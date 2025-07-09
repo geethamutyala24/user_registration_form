@@ -1,34 +1,34 @@
-# 📝 User Registration Form
+# 📝 User Registration Form with PHP & MySQL
 
-This is a simple and responsive **User Registration Form** built using HTML, CSS, and JavaScript, with basic validations. The project also includes a SQL file for creating and managing a user database.
+This is a **full-stack User Registration Form** built using **HTML5, CSS3, JavaScript, PHP, and MySQL**. It includes frontend form validations and backend integration to securely store user data into a MySQL database.
 
 ---
 
 ## 📌 Features
 
-- 📄 HTML form with fields: Name, Email, Password, Phone, DOB, Gender, etc.
-- 🎨 Styled using CSS for a clean layout
-- ✅ JavaScript form validations:
+- 📄 Clean and responsive HTML5 form layout
+- 🎨 CSS3 for styling
+- ✅ JavaScript validations:
   - Required fields check
   - Valid email format
-  - Password length
+  - Password strength and match
   - Mobile number format
-  - Age ≥ 18 validation
-- 🗃️ SQL script to create user table in MySQL
+  - Age validation (must be 18 or older)
+- 💡 PHP backend script to process and insert form data
+- 🗃️ MySQL database connection to store user data securely
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- SQL (MySQL)
+- PHP
+- MySQL
 - GitHub for version control
 
 ---
 
-## 📂 Project Structure
-
-
+## 🗂️ Project Structure
 
