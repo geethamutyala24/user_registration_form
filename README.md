@@ -32,3 +32,12 @@ This is a **full-stack User Registration Form** built using **HTML5, CSS3, JavaS
 
 ## 🗂️ Project Structure
 
+user-registration-form/
+│
+├── index.html → Main form page
+├── style.css → CSS styling
+├── script.js → JavaScript validations
+├── register.php → PHP backend for form submission
+├── db_connection.php → MySQL connection script
+├── data.sql → SQL script to create database and table
+└── README.md → Project overview
